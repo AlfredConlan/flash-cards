@@ -66,7 +66,7 @@ class ACard extends LitElement {
         outline-offset: -20px;
        }
        :host([incorrect]) {
-        outline: 20px solid #E9404B;
+        outline: 20px solid #FF0000;
         outline-offset: -20px;
        }
      </style>
