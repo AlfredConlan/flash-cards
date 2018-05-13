@@ -22,7 +22,7 @@ class ACard extends LitElement {
         padding: 20px;
        }
        .question {
-         font-size: 4.5em;
+         font-size: 2.5rem;
          font-weight: bold;
          xfont-family: "Noto Sans Japanese";
        }
@@ -31,7 +31,7 @@ class ACard extends LitElement {
          color: #1976D2;
        }
        input {
-         font-size: 3rem;
+         font-size: 2.5rem;
          background: none;
          color: black;
          box-shadow: none;
